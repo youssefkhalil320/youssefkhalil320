@@ -54,12 +54,12 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/youssefkhalil320/leetcode_solutions?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/youssefkhalil320/Elza3ama_studios_image_processing"><b>Elza3ama Studios</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/youssefkhalil320/Elza3ama_studios_image_processing?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/youssefkhalil320/Elza3ama_studios_image_processing?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/youssefkhalil320/Elza3ama_studios_image_processing?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/youssefkhalil320/Elza3ama_studios_image_processing?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/youssefkhalil320/Elza3ama_studios_image_processing?style=flat-square"/></td> 
+	      <td><a href="https://github.com/youssefkhalil320/Job_Application_Analyzer"><b>Job Application Analyzer</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/youssefkhalil320/Job_Application_Analyzer?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/youssefkhalil320/Job_Application_Analyzer?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/youssefkhalil320/Job_Application_Analyzer?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/youssefkhalil320/Job_Application_Analyzer?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/youssefkhalil320/Job_Application_Analyzer?style=flat-square"/></td> 
       </tr>
     </tbody>
   </table>
